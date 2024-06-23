@@ -8,4 +8,5 @@ add_executable(datastruct main.cpp
         LinkedList/List.cpp
         LinkedList/List.h
         LinkedList/leecode-707.h
-        LinkedList/leecode-206.h)
+        LinkedList/leecode-206.h
+        LinkedList/leecode-24.h)
