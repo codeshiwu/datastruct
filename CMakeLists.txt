@@ -7,4 +7,5 @@ add_executable(datastruct main.cpp
         LinkedList/ListNode.h
         LinkedList/List.cpp
         LinkedList/List.h
-        LinkedList/leecode-707.h)
+        LinkedList/leecode-707.h
+        LinkedList/leecode-206.h)
