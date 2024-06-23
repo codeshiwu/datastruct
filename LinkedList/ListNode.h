@@ -5,8 +5,6 @@
 #ifndef LISTNODE_H
 #define LISTNODE_H
 
-#endif //LISTNODE_H
-
 struct ListNode {
     int val;
     ListNode *next;
@@ -15,3 +13,7 @@ struct ListNode {
     ListNode(int val) : val(val), next(nullptr) {}
     ListNode(int val, ListNode *next) : val(val), next(next) {}
 };
+
+#endif //LISTNODE_H
+
+
