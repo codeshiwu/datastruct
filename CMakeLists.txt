@@ -3,4 +3,7 @@ project(datastruct)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(datastruct main.cpp)
+add_executable(datastruct main.cpp
+        ListNode.h
+        List.cpp
+        List.h)
