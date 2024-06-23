@@ -12,6 +12,7 @@
  */
 class List {
  ListNode *removeElements(ListNode *head, int val);
+
 };
 
 
