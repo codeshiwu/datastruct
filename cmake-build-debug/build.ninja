@@ -55,11 +55,11 @@ build CMakeFiles/datastruct.dir/main.cpp.o: CXX_COMPILER__datastruct_unscanned_D
   OBJECT_DIR = CMakeFiles/datastruct.dir
   OBJECT_FILE_DIR = CMakeFiles/datastruct.dir
 
-build CMakeFiles/datastruct.dir/List.cpp.o: CXX_COMPILER__datastruct_unscanned_Debug /Users/wfx/datastruct/List.cpp || cmake_object_order_depends_target_datastruct
-  DEP_FILE = CMakeFiles/datastruct.dir/List.cpp.o.d
+build CMakeFiles/datastruct.dir/LinkedList/List.cpp.o: CXX_COMPILER__datastruct_unscanned_Debug /Users/wfx/datastruct/LinkedList/List.cpp || cmake_object_order_depends_target_datastruct
+  DEP_FILE = CMakeFiles/datastruct.dir/LinkedList/List.cpp.o.d
   FLAGS = -g -std=gnu++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/datastruct.dir
-  OBJECT_FILE_DIR = CMakeFiles/datastruct.dir
+  OBJECT_FILE_DIR = CMakeFiles/datastruct.dir/LinkedList
 
 
 # =============================================================================
@@ -69,7 +69,7 @@ build CMakeFiles/datastruct.dir/List.cpp.o: CXX_COMPILER__datastruct_unscanned_D
 #############################################
 # Link the executable datastruct
 
-build datastruct: CXX_EXECUTABLE_LINKER__datastruct_Debug CMakeFiles/datastruct.dir/main.cpp.o CMakeFiles/datastruct.dir/List.cpp.o
+build datastruct: CXX_EXECUTABLE_LINKER__datastruct_Debug CMakeFiles/datastruct.dir/main.cpp.o CMakeFiles/datastruct.dir/LinkedList/List.cpp.o
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk
   OBJECT_DIR = CMakeFiles/datastruct.dir
   POST_BUILD = :

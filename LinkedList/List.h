@@ -11,9 +11,11 @@
  * 此部分为代码随想录链表部分刷题记录
  */
 class List {
+ // leecode 202 删除指定数值的链表元素
  ListNode *removeElements(ListNode *head, int val);
-
 };
+
+
 
 
 
