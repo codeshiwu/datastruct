@@ -12,4 +12,6 @@ add_executable(datastruct main.cpp
         LinkedList/leecode-24.h
         LinkedList/leecode-19.h
         LinkedList/leecode-0207.h
-        LinkedList/leecode-142.h)
+        LinkedList/leecode-142.h
+        HashTable/leecode-242.h
+        HashTable/leecode-349.h)
