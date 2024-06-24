@@ -1,4 +1,4 @@
 # ninja log v6
-11	942	1719147677678653523	CMakeFiles/datastruct.dir/main.cpp.o	97b0fed3742862e9
-943	1015	1719147678609944096	datastruct	8c6e03c8f2ab1d8c
+10	951	1719243114236368351	CMakeFiles/datastruct.dir/main.cpp.o	97b0fed3742862e9
+951	1090	1719243115177735851	datastruct	8c6e03c8f2ab1d8c
 12	78	1719142468136827269	CMakeFiles/datastruct.dir/LinkedList/List.cpp.o	5ed38808886fded7
