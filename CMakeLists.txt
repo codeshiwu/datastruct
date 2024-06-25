@@ -20,4 +20,7 @@ add_executable(datastruct main.cpp
         HashTable/leecode-454.h
         HashTable/leecode-383.h
         HashTable/leecode-15.h
-        HashTable/leecode-18.h)
+        HashTable/leecode-18.h
+        string/leecode-344.h
+        string/leecode-541.h
+        string/leecode-151.h)
