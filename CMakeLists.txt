@@ -24,4 +24,5 @@ add_executable(datastruct main.cpp
         string/leecode-344.h
         string/leecode-541.h
         string/leecode-151.h
-        string/right.h)
+        string/right.h
+        Stack/leecode-20.h)
