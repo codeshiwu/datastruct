@@ -25,4 +25,19 @@ add_executable(datastruct main.cpp
         string/leecode-541.h
         string/leecode-151.h
         string/right.h
-        Stack/leecode-20.h)
+        Stack/leecode-20.h
+        tree/TreeNode.h
+        tree/leecode-102.h
+        tree/leecode226.h
+        tree/leecode101.h
+        tree/leecode104.h
+        tree/leecode111.h
+        tree/leecode222.h
+        tree/leecode110.h
+        tree/leecode110.h
+        tree/leecode257.h
+        tree/leecode404.h
+        tree/leecode513.h
+        tree/leecode112.h
+        tree/leecode106.h
+        tree/leecode654.h)

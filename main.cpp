@@ -4,10 +4,11 @@
 #include "HashTable/leecode-202.h"
 
 int main() {
-    isHappy(2);
 
+    std::vector<int> vec1 = {1,2,3,4,5,6};
 
+    vec1.back();
 
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
+    std::vector<int> vec2 = std::vector<int>(vec1.begin(), vec1.begin());
+     return 0;
 }
